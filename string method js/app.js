@@ -9,8 +9,6 @@
 // replace
 // replaceall
 // split
-
-
 // const fruits = ['apple' , 'banana' , 'orange' , 'watermelon' , 'guawa'];
 // console.log(fruits.slice(1 , 3 , "bababab" ))
 // console.log(fruits.indexOf('apple'));
@@ -30,7 +28,6 @@
 // console.log(username.toLowerCase());
 // console.log(username.toUpperCase());
 
-
 // const username = 'Muhammad Abdullah'
 // console.log(username.length)
 // console.log(username.toLocaleLowerCase())
@@ -41,7 +38,6 @@
 // console.log(username.slice(3 , 9))
 
 
-
 // const city = prompt('which city do you live?');
 
 // if(city.toLowerCase() === 'karachi'){
@@ -49,7 +45,6 @@
 // }else{
 //     console.log('zindagi jhand haa!');
 // }
-
 
 
 // const city = prompt("write your city name")
@@ -62,21 +57,11 @@
 // }
 
 
-
-
-
-
 // let message = "Ali and Sami are best and friends. They play cricket Ali and Sami and football Ali and Sami together.";
 
 // console.log(message[message.length - 7])
 // console.log(message.replace('Ali' , 'ahad'))
 // console.log(message.replaceAll('Ali' , "ahmes"))
-
-
-
-
-
-
 
 
 // const username = 'Muhammad Abdullah';
@@ -99,21 +84,6 @@
 // console.log(username[username.length - 9])
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 //aik array banani ha cities ki. user input field ka undar koi bhi city ka naam likhaiga. Agar wo city us array ma mujood hogi screeen pa show hona chahyaa 'this city is the safest city' else 'this is not the safest city' 
 
 
@@ -130,24 +100,4 @@
 // }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 // https://forms.gle/ot1ua7iUbUBEEKNA6
-
-
-
-
-
-
-
